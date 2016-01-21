@@ -1,8 +1,18 @@
 ![Header]()
 
 # Goblin
-This application help user save a good part of article from website for later reading.
+This application help user save favorite part of article from website for later reading.
 
 ## Read-it-later APP Comparison
 ![Comparion]()
-1
+
+|                   | Instapaper  |    Pocket   |   Goblin    |
+|-------------------|-------------|:-----------:|:-----------:|
+| Full-Text Search  | Y (premier) | Y (premier) |      Y      |
+| Unlimited Notes   | Y (premier) |      Y      |      Y      |
+| Suggested Tags    | N           | Y (premier) |      Y      |
+| Text-to-Speech    | Y (premier) |      Y      |      N      |
+| Permanent Library | N           | Y (premier) | Y (premier) |
+| Highlight         | Y           |      N      |      Y      |
+| Collaboration     | N           |      N      |      Y      |
+
