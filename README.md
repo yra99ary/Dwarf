@@ -8,7 +8,7 @@ This application help user save favorite part of article from website for later 
 
 |                   | Instapaper  |    Pocket   |   Goblin    |
 |-------------------|-------------|:-----------:|:-----------:|
-| Full-Text Search  | :cry: Y (premier) | Y (premier) |      Y      |
+| Full-Text Search  | Y (premier) | Y (premier) |      Y      |
 | Unlimited Notes   | Y (premier) |      Y      |      Y      |
 | Suggested Tags    | N           | Y (premier) |      Y      |
 | Text-to-Speech    | Y (premier) |      Y      |      N      |
