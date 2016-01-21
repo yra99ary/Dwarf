@@ -1,4 +1,4 @@
-![Header](https://github.com/yra99ary/Goblin/blob/master/doc/goblin_header.png )
+![Header]()
 
 # Goblin
 This application help user save favorite part of article from website for later reading.
