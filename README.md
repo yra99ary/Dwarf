@@ -5,6 +5,7 @@ This application help user save favorite part of article from website for later 
 
 ## Read-it-later APP Comparison
 The following tables compare the features and capabilities of two popular read-it-later app with **Goblin**.
+
 |                   | Instapaper  |    Pocket   |   Goblin    |
 |-------------------|-------------|:-----------:|:-----------:|
 | Full-Text Search  | Y (premier) | Y (premier) |      Y      |
