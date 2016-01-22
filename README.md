@@ -5,9 +5,6 @@ Great products always address the real needs of real people. Internet overflows 
 
 But sometimes user don’t just only want to save links for later reading  but also save the best part of article at the first moment .It’s just like we can create highlight clips of our favorite video.We set out to solve this problem with Goblin.
 
-
-## What's Goblin?
-
 ## Read-it-later APP Comparison
 The following tables compare the features and capabilities of two popular read-it-later app with **Goblin**.
 
@@ -21,5 +18,7 @@ The following tables compare the features and capabilities of two popular read-i
 | Highlight         | Y           |      N      |      Y      |
 | Collaboration     | N           |      N      |      Y      |
 
+
+## What's Goblin?
 
 
