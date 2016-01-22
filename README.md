@@ -4,12 +4,9 @@
 This application help user save favorite part of article from website for later reading.
 
 ## Intro
-Life's too short to even read at all.
+Great products always address the real needs of real people. Internet overflows with amazing things to read but people don’t always have time to read an article the first moment .And read-it-later service solve this problem.
 
-Great products always address the real needs of real people. Internet overflows with amazing things to read but people don’t always have time to read an article the first moment .
-And read-it-later service solve this problem.
-
-But sometimes user don’t just only want to read article but also read the best part of good article.If we can collect highlights of article from internet and share it to other people, these contents will increase readability and quality.
+But sometimes user don’t just only want to read article but also read the best part of good article.We set out to solve this problem with Goblin.
 
 
 ## Read-it-later APP Comparison
