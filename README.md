@@ -3,7 +3,7 @@
 # Goblin
 Great products always address the real needs of real people. Internet overflows with amazing things to read but people don’t always have time to read an article the first moment .And read-it-later service solve this problem.
 
-But sometimes user don’t just only want to save links for later reading  but also save the best part of article after reading at the first moment .It’s just like we can create highlight clips of our favorite video.We set out to solve this problem with Goblin.
+But sometimes user don’t just only want to save links for later reading  but also save the best part of article at the first moment .It’s just like we can create highlight clips of our favorite video.We set out to solve this problem with Goblin.
 
 
 ## What's Goblin?
