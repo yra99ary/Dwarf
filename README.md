@@ -15,7 +15,7 @@ The following tables compare the features and capabilities of two popular read-i
 | Suggested Tags    | N           | Y (premier) |      Y      |
 | Text-to-Speech    | Y (premier) |      Y      |      N      |
 | Permanent Library | N           | Y (premier) | Y (premier) |
-| Highlight         | Y           |      N      |      Y      |
+| Highlight-it-later         | Y           |      N      |      Y      |
 | Collaboration     | N           |      N      |      Y      |
 
 
